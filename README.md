@@ -25,7 +25,7 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
   <img src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="BASH" />
 </p>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center" style="margin-bottom: 5px">GitHub Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="OmTegar-cards"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="OmTegar-Graps"/>
