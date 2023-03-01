@@ -29,6 +29,8 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=github_dark&hide_border=true" alt="OmTegar-Graps"/>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmTegar&theme=github_dark&hide_border=true" alt="OmTegar-skill" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmTegar&theme=github_dark&hide_border=true" alt="OmTegar-commit" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmTegar&theme=github_dark&hide_border=true" alt="OmTegar-Topcommit" />
 </p>
 
 <!-- Social media badges -->
