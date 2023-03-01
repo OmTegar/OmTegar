@@ -25,29 +25,6 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
   <img src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="BASH" />
 </p>
 
-<!-- <h2 align="center">GitHub Stats</h2>
-<p align="center">
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=default&hide_border=true#gh-dark-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=github_dark&hide_border=true#gh-light-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-light-mode-only)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=default&hide_border=true#gh-dark-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=github_dark&hide_border=true#gh-light-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-light-mode-only)
-
-</p> -->
-
-<!-- <h2 align="center">GitHub Stats</h2>
-<p align="center">
-<!-- light or dark mode -->
-<!-- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=github_dark&hide_border=true" alt="OmTegar-cards"/> dark mode -->
-<!-- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=github_dark&hide_border=true" alt="OmTegar-Graps"/> dark mode -->
-<!-- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=default&hide_border=true" alt="OmTegar-cards"/> light mode -->
-<!-- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=default&hide_border=true" alt="OmTegar-Graps"/> light mode -->
-
-<!-- </p> --> 
-
-
-
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="OmTegar-cards"/>
@@ -55,17 +32,6 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="OmTegar-cards"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=default&hide_border=true#gh-light-mode-only" alt="OmTegar-Graps"/> -->
 </p> 
-
-
-
-<!-- <h2 align="center">GitHub Stats</h2>
-<p align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmTegar&theme=tokyonight" alt="OmTegar-cards"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmTegar&theme=tokyonight" alt="OmTegar-Graps"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmTegar&theme=tokyonight" alt="OmTegar-skill" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmTegar&theme=tokyonight&utcOffset=8" alt="OmTegar-commit" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmTegar&theme=tokyonight" alt="OmTegar-Topcommit" />
-</p> -->
 
 <!-- Social media badges -->
 <p align="center">
