@@ -29,9 +29,10 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=github_dark&hide_border=true" alt="OmTegar-cards"/>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=github_dark&hide_border=true" alt="OmTegar-Graps"/> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&hide_border=true" alt="OmTegar-Graps"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmTegar&layout=compact&theme=github_dark&hide_border=true" alt="OmTegar-Graps"/>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=github_dark&hide_border=true" alt="OmTegar-Graps"/> -->
 </p>
+
 <!-- <h2 align="center">GitHub Stats</h2>
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmTegar&theme=tokyonight" alt="OmTegar-cards"/>
