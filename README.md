@@ -36,8 +36,8 @@ If you're interested in working with me, please feel free to contact me through 
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=cobalt" alt="OmTegar" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmTegar&theme=cobalt" alt="OmTegar" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=cobalt" alt="OmTegar-Graps" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmTegar&theme=cobalt" alt="OmTegar-skill" />
 </p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=cobalt)
@@ -61,7 +61,6 @@ If you're interested in working with me, please feel free to contact me through 
 
 <h5 align="center">Turning ideas into reality by OmTegar</h5>
 
-### Hi there 👋
 
 <!--
 **OmTegar/OmTegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
