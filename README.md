@@ -15,15 +15,16 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
-
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
-
   <img src="https://img.shields.io/badge/Networking-00BFFF?logo=cisco&logoColor=white&style=for-the-badge" alt="Networking" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge" alt="Cisco" />
   <img src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="BASH" />
@@ -53,7 +54,6 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
 </p>
 
 <h5 align="center">Turning ideas into reality by OmTegar</h5>
-
 
 <!--
 **OmTegar/OmTegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
