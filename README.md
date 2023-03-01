@@ -28,11 +28,11 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=default&hide_border=true#gh-dark-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=github_dark&hide_border=true#gh-light-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-light-mode-only)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=default&hide_border=true#gh-dark-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=github_dark&hide_border=true#gh-light-mode-only)](https://github.com/OmTegar/github-readme-stats#gh-light-mode-only)
 
 </p>
 
