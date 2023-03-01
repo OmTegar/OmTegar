@@ -4,11 +4,7 @@
 <p align="center">
 ### Hi there, I'm Tegar Dito Priandika 👋
 
-I'm a passionate Network Engineer, Web Developer, and Cloud Architect with a focus on building high-quality, scalable, and secure applications. At the age of 17, I'm currently studying at Telkom Malang Vocational High School and living in Malang, East Java, Indonesia.
-
-I'm constantly learning and exploring new technologies to improve my skills and stay up-to-date with the latest trends in the industry. My main areas of expertise include network infrastructure, front-end and back-end web development, cloud computing, and DevOps.
-
-If you're interested in working with me, please feel free to contact me through my personal email. Let's build amazing things together!
+I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who specializes in creating high-quality, scalable, and secure applications. Currently studying at Telkom Malang Vocational High School and residing in Malang, East Java, Indonesia, I continuously explore and learn new technologies to keep up with industry trends. My areas of expertise include network infrastructure, front-end and back-end web development, cloud computing, and DevOps. Let's work together and create something amazing! Contact me through my personal email.
 
 </p>
 
@@ -42,13 +38,13 @@ If you're interested in working with me, please feel free to contact me through 
 
 <!-- Social media badges -->
 <p align="center">
-  <a href="mailto:tegardito02@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tegardito02@gmail.com&authuser=0">
+  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
+</a>
   <a href="https://www.linkedin.com/in/tegar-priandika-4233a7266/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/omtegar_/">
+  <a href="https://www.instagram.com/tega_r.dp/">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
   <a href="https://wa.me/6281233219130">
