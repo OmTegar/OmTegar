@@ -38,6 +38,7 @@ If you're interested in working with me, please feel free to contact me through 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=cobalt" alt="OmTegar-Graps" />
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmTegar&theme=cobalt" alt="OmTegar-skill" />
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmTegar&theme=cobalt)
 </p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=cobalt)
