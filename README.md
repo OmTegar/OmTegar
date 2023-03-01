@@ -27,7 +27,7 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark" alt="OmTegar-Graps"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmTegar&layout=compact&theme=github_dark" alt="OmTegar-Graps"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasyid15&show_icons=true&theme=github_dark" alt="OmTegar-cards"/>
 </p>
 <!-- <h2 align="center">GitHub Stats</h2>
