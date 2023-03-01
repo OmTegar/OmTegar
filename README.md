@@ -50,8 +50,8 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="OmTegar-cards"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="OmTegar-Graps"/>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="OmTegar-cards"/>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=default&hide_border=true#gh-light-mode-only" alt="OmTegar-Graps"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTegar&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="OmTegar-cards"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=default&hide_border=true#gh-light-mode-only" alt="OmTegar-Graps"/>
 </p>
 
 <!-- <h2 align="center">GitHub Stats</h2>
