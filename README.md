@@ -39,10 +39,10 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
 <!-- light or dark mode -->
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=gh-light&hide_border=true" alt="OmTegar-cards"/> <!-- light mode -->
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=gh-light&hide_border=true" alt="OmTegar-Graps"/> <!-- light mode -->
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=gh-dark&hide_border=true" alt="OmTegar-cards"/> <!-- dark mode -->
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=gh-dark&hide_border=true" alt="OmTegar-Graps"/> <!-- dark mode -->
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=github_dark&hide_border=true" alt="OmTegar-cards"/> <!-- dark mode -->
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=github_dark&hide_border=true" alt="OmTegar-Graps"/> <!-- dark mode -->
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmTegar&show_icons=true&theme=default&hide_border=true" alt="OmTegar-cards"/> <!-- light mode -->
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmTegar&langs_count=3&theme=default&hide_border=true" alt="OmTegar-Graps"/> <!-- light mode -->
 
 </p>
 
