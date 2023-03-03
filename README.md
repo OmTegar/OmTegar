@@ -47,6 +47,9 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
   <a href="https://wa.me/6281233219130">
     <img alt="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
   </a>
+  <a href="https://www.digitalocean.com/?refcode=196d9bf2293b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
+    <img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" />
+  </a>
 </p>
 
 <h5 align="center">Turning ideas into reality by OmTegar</h5>
